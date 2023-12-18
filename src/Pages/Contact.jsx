@@ -14,7 +14,7 @@ const Contact = () => {
       </div>
 
       <div className="w-full font-mSubrayada text-lg text-lgray md:text-4xl lg:text-5xl">
-        Lets Connect
+        Lets Connectl
       </div>
 
       <form
